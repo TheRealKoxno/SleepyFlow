@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TodayViewController.swift
 //  SleepyFlo
 //
 //  Created by mac on 18.12.2021.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TodayViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
